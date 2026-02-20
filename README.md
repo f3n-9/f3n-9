@@ -53,7 +53,7 @@
   <h3>🛠️ My Tech Stack</h3>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,mysql,git,github,linux,idea,pycharm,vscode,md&perline=15" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,py,php,js,c,mysql,git,github,linux,idea,pycharm,vscode,md&perline=15" alt="My Skills" />
   </a>
 </div>
 
