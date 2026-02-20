@@ -65,6 +65,6 @@
   <h3>🏆 My GitHub Trophies</h3>
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=f3n-9&theme=onedark" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-he9zh5ul7-f3n9s-projects.vercel.app/?username=f3n-9&theme=onedark" alt="GitHub Trophies" />
   </a>
 </div>
