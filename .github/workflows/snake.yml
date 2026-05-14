@@ -10,6 +10,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # 【修复核心】显式赋予写入权限，确保新图片可以成功推送到 output 分支
+    permissions:
+      contents: write 
     steps:
       - uses: actions/checkout@v2
       
